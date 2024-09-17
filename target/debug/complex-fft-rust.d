@@ -1,1 +1,1 @@
-C:\Users\GANYMEDE\Documents\project-files\complex-fft-rust\target\debug\complex-fft-rust.exe: C:\Users\GANYMEDE\Documents\project-files\complex-fft-rust\src\complex_number.rs C:\Users\GANYMEDE\Documents\project-files\complex-fft-rust\src\main.rs
+D:\PROJECTS\VSCODE\complex-numbers-rust\target\debug\complex-fft-rust.exe: D:\PROJECTS\VSCODE\complex-numbers-rust\src\complex_number.rs D:\PROJECTS\VSCODE\complex-numbers-rust\src\main.rs

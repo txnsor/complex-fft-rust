@@ -1,0 +1,1 @@
+C:\Users\GANYMEDE\Documents\project-files\complex-fft-rust\target\debug\complex-fft-rust.exe: C:\Users\GANYMEDE\Documents\project-files\complex-fft-rust\src\complex_number.rs C:\Users\GANYMEDE\Documents\project-files\complex-fft-rust\src\main.rs

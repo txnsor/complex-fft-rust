@@ -1,6 +1,6 @@
-use complex_number::Complex;
-
 pub mod complex_number;
+pub mod fft;
+use complex_number::Complex;
 
 #[allow(non_snake_case)]
 #[allow(unused_variables)]
@@ -15,4 +15,5 @@ fn main() {
     println!("B = {}", B.to_string());
     println!("A + B = {}", (A + B).to_string());
     println!("C Magnitude = {}", C.magnitude());
+    println!("Oh my pingas!");
 }

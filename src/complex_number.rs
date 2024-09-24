@@ -6,7 +6,6 @@
  // TODO: implement type casting between different complex number types.
 #[allow(dead_code)]
 use std::ops::*;
-extern crate duplicate;
 use duplicate::duplicate_item;
 
 pub struct Complex<T: Num<T>> {
